@@ -1,0 +1,8 @@
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\bin\Release\PerformanceViewer.exe
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\bin\Release\PerformanceViewer.pdb
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\obj\x86\Release\PerformanceViewer.PerformanceViewer.resources
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\obj\x86\Release\PerformanceViewer.Properties.Resources.resources
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\obj\x86\Release\PerformanceViewer.csproj.GenerateResource.Cache
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\obj\x86\Release\PerformanceViewer.exe
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\obj\x86\Release\PerformanceViewer.pdb
+D:\Shared PC\Programs\2018.09.11 - Performance Viewer\PerformanceViewer\PerformanceViewer\obj\x86\Release\PerformanceViewer.csprojResolveAssemblyReference.cache
